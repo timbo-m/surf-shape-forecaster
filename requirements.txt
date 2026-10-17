@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.2
+rasterio>=1.4
+pyproj>=3.6
+shapely>=2.0
+tzdata
+matplotlib>=3.8

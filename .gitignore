@@ -1,0 +1,32 @@
+# secrets
+config/
+*key*.txt
+.env
+
+# raw / large data (re-downloadable, see README)
+raw/
+*.tif
+*.tiff
+*.asc
+*.zip
+*.las
+*.laz
+data/bathymetry/
+data/conditions/
+conditions_hourly*.csv
+*_clipped*.csv
+youtube_videos*.csv
+youtube_progress.json
+data/posts/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# misc
+*.bak*
+.DS_Store
+Thumbs.db

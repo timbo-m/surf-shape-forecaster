@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fistral v3 (Little, North, South Fistral + offshore)",
+        "note": "Shore edge follows the back of the beach (from CCO surveys/lidar) from the foot of Pentire headland to the foot of Towan Head; offshore edge fans across the bay mouth (Towan Head - Pentire Point East) to ~3 km WNW. Zones: little = north of the main beach's north end (OSM), north/south split at mid-beach, offshore = >700 m seaward of the back-of-beach line."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.104049,
+              50.41227
+            ],
+            [
+              -5.100319,
+              50.413359
+            ],
+            [
+              -5.099001,
+              50.414743
+            ],
+            [
+              -5.098246,
+              50.416113
+            ],
+            [
+              -5.097438,
+              50.418833
+            ],
+            [
+              -5.096712,
+              50.420651
+            ],
+            [
+              -5.095705,
+              50.422477
+            ],
+            [
+              -5.096244,
+              50.424262
+            ],
+            [
+              -5.097316,
+              50.425583
+            ],
+            [
+              -5.138099,
+              50.4373
+            ],
+            [
+              -5.154171,
+              50.412359
+            ],
+            [
+              -5.104049,
+              50.41227
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

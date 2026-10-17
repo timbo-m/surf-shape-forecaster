@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Fistral v2",
+        "note": "Shore edge moved 225 m landward (perpendicular to original shore edge) to the back of the beach, picked from 2025-02-01 CCO lidar and 2022/2026 CCO beach surveys; offshore corners unchanged."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.099472,
+              50.415732
+            ],
+            [
+              -5.097472,
+              50.418832
+            ],
+            [
+              -5.1381,
+              50.4373
+            ],
+            [
+              -5.1487,
+              50.4206
+            ],
+            [
+              -5.099472,
+              50.415732
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
